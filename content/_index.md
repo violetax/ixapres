@@ -77,7 +77,8 @@ outputs = ["Reveal"]
 
 ### TV: EITB, concursante en El Conquistador
 
-<video src="/images/CONQUIS" controls>
+<div style=" position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0;overflow: hidden;">
+<iframe scrolling="no" src="https://www.eitb.eus/es/get/multimedia/screen/id/1353704/tipo/videos/videos/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="position: absolute;top:0;left: 0;width: 100%;height: 100%;" ></iframe></div>
 
 https://www.eitb.eus/es/videos/detalle/1353704/video-los-mejores-momentos-ixa-el-conquis/
 
@@ -85,7 +86,8 @@ https://www.eitb.eus/es/videos/detalle/1353704/video-los-mejores-momentos-ixa-el
 
 ### TV: EITB, entrevista en Historias a Bocados
 
-<video src="/images/CHINO" controls>
+<div style=" position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0;overflow: hidden;">
+<iframe scrolling="no" src="https://www.eitb.eus/es/get/multimedia/screen/id/5854111/tipo/videos/television/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="position: absolute;top:0;left: 0;width: 100%;height: 100%;" ></iframe></div>
 
 https://www.eitb.eus/es/television/programas/historias-a-bocados/videos/detalle/5854111/video-isa-rodriguez-hung-fai-comen-arroz-entrenar-soraluze-boxeo/
 
