@@ -1,0 +1,5 @@
+1.	Copy the plugin CC and JS into the static dir
+2.	Add the JS file path to the plugins field in the front matter
+3.	Create a head.htm partial inside of layouts/partials/plugin-example/reveal-hugo
+4.	In head.html, add a stylesheet link tag that loads the plugin CSS
+

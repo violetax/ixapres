@@ -47,6 +47,33 @@ body {
   background-color: #fff;
   color: #000; }
 
+/** VIO'sCHANGES */
+.reveal .slides section .flex-container {
+    display: flex;
+  display: -ms-flex;
+    display: -webkit-flex;
+	/* this chane of colour has worked!!! */
+	flex-direction: row;
+}
+
+.reveal .slides section .flex-container > .flex-row {
+  flex: 1;
+    /*padding: 0 30px;*/
+}
+/*
+@media only screen and (max-width: 768px) {
+
+.reveal .slides section  .flex-container {
+      flex-direction: row;
+	  justify-content: center;
+    }
+
+.reveal .slides section  .flex-container > .flex-row {
+      padding: 0;
+  }
+  */
+
+/*END VIO'S***/
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
@@ -97,7 +124,8 @@ body {
   opacity: 1;
   visibility: inherit; }
   .reveal .slides section .fragment.strike.visible {
-    text-decoration: line-through; }
+    text-decoration: line-through;
+}
 
 .reveal .slides section .fragment.fade-up {
   -webkit-transform: translate(0, 20%);

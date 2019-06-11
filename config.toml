@@ -6,3 +6,44 @@ theme = "reveal-hugo"
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+
+[[resources]]
+  name = "header"
+  src = "images/sunset.jpg"
+
+#sunset.jpg will receive a new Name and can now be found with .GetMatch "header"
+
+[[resources]]
+  src = "documents/photo_specs.pdf"
+  title = "Photo Specifications"
+  [resources.params]
+    icon = "photo"
+
+#documents/photo_specs.pdf will get the photo icon
+#every other pdf will get the pdf icon
+
+[[resources]]
+  src = "documents/guide.pdf"
+  title = "Instruction Guide"
+
+#documents/checklist.pdf will get Title as set by title
+
+[[resources]]
+  name = "pdf-file-:counter"
+  src = "**.pdf"
+  [resources.params]
+    icon = "pdf"
+
+#All PDF files will get a new Name. The name parameter contains a special placeholder :counter, so the Name will be pdf-file-1, pdf-file-2, pdf-file-3
+
+[[resources]]
+  src = "**.docx"
+  [resources.params]
+    icon = "word"
+
+#Every docx in the bundle will receive the word icon
+#order matters — Only the first set values of the title, name and params-keys will be used. Consecutive parameters will be set only for the ones not already set. For example, in the above example, .Params.icon is already first set to "photo" in src = "documents/photo_specs.pdf". So that would not get overridden to "pdf" by the later set src = "**.pdf" rule
+
+#:counter is a special placeholder recognized in name and title parameters resources
+	#starts at 1 the first time they are used in either name or title
