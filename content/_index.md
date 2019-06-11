@@ -52,8 +52,8 @@ outputs = ["Reveal"]
 <h2> Prensa: seguimiento en El Diario Vasco </h2>
 <div class ="flex-container">
 
-{{< img src="images/diariovasco.jpg" style="max-width: 70%; max-height: 70%;" >}}
-{{< img src="images/ganaporko.jpg" style="max-width: 70%; max-height: 70%;" >}}
+{{< img src="images/diariovasco.jpg" style="max-width: 70%; max-height: 60%;" >}}
+{{< img src="images/ganaporko.png" style="max-width: 70%; max-height: 60%;" >}}
 
 </div>
 
@@ -77,10 +77,7 @@ outputs = ["Reveal"]
 
 ### TV: EITB, concursante en El Conquistador
 
-<div style=" position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0;overflow: hidden;">
-<iframe scrolling="no" src="https://www.eitb.eus/es/get/multimedia/screen/id/1353704/tipo/videos/videos/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="position: absolute;top:0;left: 0;width: 100%;height: 100%;" ></iframe></div>
-
-https://www.eitb.eus/es/videos/detalle/1353704/video-los-mejores-momentos-ixa-el-conquis/
+{{< vimeo 341678878 >}} 
 
 ---
 
