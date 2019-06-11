@@ -8,7 +8,7 @@ outputs = ["Reveal"]
 
 <h1> Ixa Rodríguez </h1>
 
-{{< vimeo 341586448 >}}
+<video src="/videos/ixako.mp4" controls>
 
 ---
 
