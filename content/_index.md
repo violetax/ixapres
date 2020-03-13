@@ -77,7 +77,13 @@ outputs = ["Reveal"]
 
 ### TV: EITB, concursante en El Conquistador
 
-{{< vimeo 341678878 >}} 
+{{< youtube oIKgnaewsnQ >}}
+
+---
+
+### TV: EITB, más en El Conquistador
+
+{{< youtube hsyX3FtS5_Q >}}
 
 ---
 
@@ -88,3 +94,93 @@ outputs = ["Reveal"]
 
 https://www.eitb.eus/es/television/programas/historias-a-bocados/videos/detalle/5854111/video-isa-rodriguez-hung-fai-comen-arroz-entrenar-soraluze-boxeo/
 
+---
+
+### Programa de ETB
+
+{{< youtube nDUnPRs15Zo >}}
+
+---
+
+### Versión larga del programa de ETB
+
+{{< youtube k8EE5HGWjQQ >}}
+
+---
+
+### Ixa Rodríguez, como campeona 4n 48Kg amateur, en la ETB
+
+{{< youtube fG8CxKllMVk >}}
+
+---
+
+### Ixa en el programa NiAlias
+
+{{< youtube YOi5BJLw26A >}}
+
+---
+
+### Ixa vs Oksana
+
+{{< img src="images/ixavsOksana.jpg" style="max-width: 25%; max-height: 25%;" >}}
+
+---
+
+### Homenaje a Ixa
+
+{{< img src="images/etakitto.png" style="max-width: 25%; max-height: 25%;"  >}}
+
+https://etakitto.eus/berriak/jaiak/ixa-rodriguez-boxeolaria-omendu-dute-17-garagardo-ferixaren-inaugurazio-ekitaldian.html
+
+---
+
+### Documental de Ixa Rodríguez
+
+{{< youtube R9xjC3YODV0 >}}
+
+---
+
+### Anuncio 2ª pelea profesional 
+
+{{< img src="images/anuncioEloisa.png" style="max-width: 25%; max-height: 25%;" >}}
+
+https://www.diariovasco.com/bajo-deba/preferente-recibe-mondra-20181107002856-ntvo.html
+
+---
+
+### Ixa gana por KO
+
+{{< img src="images/ixaporkoDV.png" style="max-width: 25%; max-height: 25%;" >}}
+
+https://www.diariovasco.com/deportes/mas-deportes/boxeo-rodriguez-gana-soraluze-20190311004530-ntvo.html
+
+---
+
+### Ixa en la campaña de queremos tíos buenos
+
+<div class ="flex-container">
+
+{{< img src="images/tiosbuenosDIPU.png" style="max-width: 70%; max-height: 60%;" >}}
+{{< img src="images/tiosbuenos.jpg" style="max-width: 70%; max-height: 60%;" >}}
+
+</div>
+
+---
+
+### Entrevista en Radio Popular
+
+{{< img src="images/radiopop.png" style="max-width: 25%; max-height: 25%;" >}}
+https://radiopopular.com/ixa-rodriguez-nos-abre-la-puerta-de-neskabox/
+
+---
+
+### Ixa ganó en Soraluze
+
+{{< img src="images/ixaespaboxelgoibar.png" style="max-width: 25%; max-height: 25%;" >}}
+https://www.espabox.com/ixa-rodriguez-vencio-en-elgoibar/
+
+---
+
+### Promoción de Ixa en la página de David Broncano (La Resistencia)
+
+https://www.facebook.com/groups/453822154970941/permalink/1160444454308704/
